@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "App Cadastro/1.0.0": {
+        "runtime": {
+          "App Cadastro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App Cadastro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
